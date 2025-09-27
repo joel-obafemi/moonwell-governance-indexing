@@ -154,8 +154,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Links
 
-- [Moonwell Protocol](https://moonwell.fi/)
-- [Dune Analytics](https://dune.com/)
+- [Dune Dashboard]([https://dune.com/](https://dune.com/jorel/moonwell-governance-dashboard))
 - [Moonriver Network](https://moonriver.moonscan.io/)
 - [Moonbeam Network](https://moonscan.io/)
 
